@@ -9,7 +9,7 @@ from datetime import datetime
 import random
 from flask_wtf import FlaskForm
 from wtforms import FileField, SubmitField
-from io import BytesIO 
+
 
 
 app = Flask(__name__)
